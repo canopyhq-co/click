@@ -1,9 +1,2 @@
 version: 1
 product: cli-toolkit
-production_branch: main
-versions:
-  track: tag
-release_branches: ["2.*", "3.*"]
-history: 365
-owners:
-  - {name: E2E Owner, email: e2e-owner@example.com}
